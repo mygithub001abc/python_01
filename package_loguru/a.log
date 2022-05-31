@@ -1,0 +1,36 @@
+2022-05-30 13:48:47 | 14 | INFO | 这是一条info日志
+2022-05-30 13:48:47 | 15 | WARNING | 这是一条warning日志
+2022-05-30 13:48:47 | 16 | SUCCESS | 这是一条success日志
+2022-05-30 13:48:47 | 17 | ERROR | 这是一条error日志
+2022-05-30 13:54:49 | 14 | INFO | 这是一条info日志
+2022-05-30 13:54:49 | 15 | WARNING | 这是一条warning日志
+2022-05-30 13:54:49 | 16 | SUCCESS | 这是一条success日志
+2022-05-30 13:54:49 | 17 | ERROR | 这是一条error日志
+2022-05-30 13:54:49 | 21 | INFO | If you're using python 3.6, prefer f-strings of courses!
+2022-05-30 17:44:12 | INFO | demo_loguru | 32 | 这是一条info日志
+2022-05-30 17:44:12 | WARNING | demo_loguru | 33 | 这是一条warning日志
+2022-05-30 17:44:12 | SUCCESS | demo_loguru | 34 | 这是一条success日志
+2022-05-30 17:44:12 | ERROR | demo_loguru | 35 | 这是一条error日志
+2022-05-30 17:49:51 | INFO | demo_loguru | 32 | 这是一条info日志
+2022-05-30 17:49:51 | WARNING | demo_loguru | 33 | 这是一条warning日志
+2022-05-30 17:49:51 | SUCCESS | demo_loguru | 34 | 这是一条success日志
+2022-05-30 17:49:51 | ERROR | demo_loguru | 35 | 这是一条error日志
+2022-05-30 17:49:51 | INFO | demo_loguru | 38 | 我的名字是武则天
+2022-05-30 17:50:48 | INFO | demo_loguru | 32 | 这是一条info日志
+2022-05-30 17:50:48 | WARNING | demo_loguru | 33 | 这是一条warning日志
+2022-05-30 17:50:48 | SUCCESS | demo_loguru | 34 | 这是一条success日志
+2022-05-30 17:50:48 | ERROR | demo_loguru | 35 | 这是一条error日志
+2022-05-30 17:50:48 | INFO | demo_loguru | 38 | 我的名字是武则天,我今年18了
+2022-05-30 17:55:28 | DEBUG | demo_loguru | 31 | 这是一条debug日志
+2022-05-30 17:55:28 | INFO | demo_loguru | 32 | 这是一条info日志
+2022-05-30 17:55:28 | WARNING | demo_loguru | 33 | 这是一条warning日志
+2022-05-30 17:55:28 | SUCCESS | demo_loguru | 34 | 这是一条success日志
+2022-05-30 17:55:28 | ERROR | demo_loguru | 35 | 这是一条error日志
+2022-05-30 17:55:28 | INFO | demo_loguru | 38 | 我的名字是武则天,我今年18了
+2022-05-30 18:01:00 | DEBUG | demo_loguru | 31 | 这是一条debug日志
+2022-05-30 18:01:00 | INFO | demo_loguru | 32 | 这是一条info日志
+2022-05-30 18:01:00 | WARNING | demo_loguru | 33 | 这是一条warning日志
+2022-05-30 18:01:00 | SUCCESS | demo_loguru | 34 | 这是一条success日志
+2022-05-30 18:01:00 | ERROR | demo_loguru | 35 | 这是一条error日志
+2022-05-30 18:01:00 | INFO | demo_loguru | 38 | 我的名字是武则天,我今年18了
+2022-05-30 18:01:00 | INFO | demo_loguru | 39 | 我的名字是武则天,我今年18了
